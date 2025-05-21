@@ -1,6 +1,6 @@
 Ian Thomson
 
-Electronics Hardware Design Engineer
+Electronics Hardware Engineer
 
 <!---
 iedthomson/iedthomson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
